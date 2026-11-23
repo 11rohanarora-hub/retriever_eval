@@ -1,0 +1,8 @@
+[
+  {
+    "id": "g001",
+    "query": "Differentiate the two LLM eval types and explain their roles in project model selection decisions.",
+    "ideal_answer": "The two LLM evaluation types are model evaluations and application evaluations. \n\nModel evaluations assess the performance of different LLMs (e.g., OpenAI, Anthropic, open source) based on benchmarks, helping developers understand which model suits their project needs. This evaluation guides the initial decision of selecting the appropriate LLM.\n\nApplication evaluations focus on how well the chosen model performs within the specific application context, ensuring it meets real-world requirements.\n\nTogether, these evaluations inform project model selection by first identifying the best model through model evals, then validating its effectiveness via application evals.",
+    "source": "YT Sandbox   LLM Evals Session 1.vtt"
+  }
+]
